@@ -1,1 +1,1 @@
-#Polls App from Official Dijango Documentation
+Polls App from Official Dijango Documentation
